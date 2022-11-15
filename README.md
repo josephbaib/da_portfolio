@@ -3,12 +3,6 @@
 </h1>
 <br>
 
-<br>
-<span align="center">
-
-[E-mail](mailto:baiburinyusuf@gmail.com) 📬 [Telegram](https://t.me/josephbaib)
-
-</span>
 
 |№|Project name|Field|Description|Stack|
 |:-----:|:-----|:-----|:-----|:-----|
