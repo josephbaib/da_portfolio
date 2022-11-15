@@ -5,7 +5,7 @@
 
 
 |№|Project name|Description|Stack|
-|:-----:|:-----|:-----|:-----|:-----|
+|:-----:|:-----|:-----|:-----|
 |1|[Research on apartment listings](https://github.com/josephbaib/da_portfolio/tree/main/flats)|Data preprocessing and calculation; exploratory data analysis| `Python` `Pandas` `Matplotlib` `NumPy` `Seaborn`|
 |2|[Determining a prospective tariff for a telecom company](https://github.com/josephbaib/da_portfolio/tree/main/telecom)|Pre-processing and calculation of data; exploratory data analysis| `Python` `Pandas` `Stats` `NumPy` `Seaborn`|
 |3|[Research on the patterns that determine the success of video games](https://github.com/josephbaib/da_portfolio/tree/main/videogames_market)|Data processing, histogram, boxplot, statistical test, Student's test, piechart| `Python` `Pandas` `NumPy` `Matplotlib`|
